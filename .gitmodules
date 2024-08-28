@@ -1,0 +1,3 @@
+[submodule "periodic_table"]
+	path = periodic_table
+	url = git@github.com:vA7med72/new.git
